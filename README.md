@@ -19,9 +19,7 @@ The dashboard helps users analyze fundraising goals, actual amount raised, campa
 
 ## 🖥️ Dashboard Preview
 
-> Add the dashboard screenshot to the repository and update the path below if required.
-
-![Funding Agencies Dashboard](dashboard.png)
+![Funding Agencies Dashboard](.github/assets/FA_dashboard.png)
 
 ## 🎯 Objectives
 
